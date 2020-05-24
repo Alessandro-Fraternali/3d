@@ -1,0 +1,23 @@
+body{
+  box-sizing: border-box;
+  padding:0;
+  margin:0;
+}
+
+canvas{
+  display: block;
+}
+
+h1{
+  position: absolute;
+  top: 3em;
+  left: 4em;
+  font-size: 7em;
+  width: auto;
+  line-height: .8em;
+  border: 5px solid white;
+  border-style: double;
+  text-transform: uppercase;
+  color: white;
+  padding: .2em;
+}
